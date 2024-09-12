@@ -48,41 +48,5 @@ public class Main {
         } else if (MenuConstants.CONSULTAR_CARROS == codigo) {
 
         }
-
-//        vendedor.vender(200000);
-
-//        Tema do sistema = ?
-//        1) na classe main a gente vai printar o Tema do nosso sistema = OK
-//        2) Criar no minimo 3 classe (superclasse) = Entidades / Dominios = OK
-//        3) Criar no minimo 1 classe filha para cada superclasse = OK
-//        4) Todas classes precisam ter os atributos privados com GETTERS e SETTERS = OK
-//        5) Todas classes precisam ter construtores = OK
-//        6) A classe filha precisa sobrecarregar 1 metodo = OK
-//        7) Na classe main voces vao precisar instanciar todas classes Filhas = EM ANDAMENTO
-//        8) Usar scanner para atribuir valores da classe e filha = EM ANDAMENTO
-//        9) e usar scanner para acionar metodos = EM ANDAMENTO
-
-        // duvidas
-
-        // 01 -
-        // 02 -
-        // 03 -
-        // 04 -
-        // 05 -
-
-//        Orientacao a objeto
-//        encapsulamento
-//        atributos
-//        metodos
-//        heranca
-//        polimorfismo
-//        condicao
-//        repeticao
-
-
-//        listas -> outra aula
-
     }
-
-
 }
